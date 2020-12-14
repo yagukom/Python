@@ -1,2 +1,2 @@
 # Python
-学习Python用
+学习Python时写的DEMO
