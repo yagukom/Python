@@ -16,6 +16,7 @@ Names1=("ahra","dina","terisa")#元组Tuple使用()来定义
 #List 是可变有序容器，Tuple 是不可变有序容器。
 #初学者总是很好奇 List 和 Tuple 的区别。首先是使用场景，在将来需要更改的时候，创建 List ；
 #在将来不需要更改的时候，创建 Tuple。其次，从计算机的角度来看，Tuple 相对于 List 占用更小的内存。
+#集合Set使用{}来定义，字典Dict使用{Key:Value,}来进行定义。
 #以上注解选自《自学是门手艺--李笑来》1.5.6数据容器--元组
 Say_Hello(*Names0)
 Say_Hi(*Names0)
