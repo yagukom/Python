@@ -7,7 +7,7 @@ def Say_Hello(*names):
   for name in names:
   	print("Hello,",name)
 
-def Say_Hi(*names):
+def Say_Hi(*names):#当不使用循环遍历时，会输出一个元组
   print("Hi,",names)
   
 Names0=["mike","john","zeo"]#列表List使用[]来定义
