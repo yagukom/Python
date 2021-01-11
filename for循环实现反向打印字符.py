@@ -1,7 +1,7 @@
 #2021-1-10 22:21
 #原本是作为《自学是门手艺》的2.4.4递归这章节里的第1165题的“使用递归函数实现反向字符打印”的操作的
 #但是太晚了就先拿for循环凑活一下，明天继续。
-
+#2021-1-11 9:22 已完成利用递归函数实现反向打印字符的.py文件，自己在自己的github上翻翻。
 def StringReverse(string):
     ReversedStrList=[]
     print('length of InputString',len(string))
