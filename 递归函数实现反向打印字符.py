@@ -10,7 +10,7 @@ def StringReverseCoreFunc(string,length,ResultString):#2字符串反向打印的
     print("String形式的结果",RealResultString)
   else:
     ResultString.append(string[length-1])
-    length=length-1
+    length=length-1 #递归函数的参数里肯定有一个参数是拿来计数的
     print("执行的字符串下标值：",length)
     StringReverseCoreFunc(string,length,ResultString)
   
