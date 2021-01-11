@@ -15,7 +15,7 @@ def StringReverseCoreFunc(string,length,ResultString):#2字符串反向打印的
     StringReverseCoreFunc(string,length,ResultString)
   
 def StringReverse(string):#1字符串反向打印的入口函数
-    MirrorString=[]
+    MirrorString=[]#注意变量名不要和函数名一样，很容易会导致编译器报错。
     length=len(string)
     StringReverseCoreFunc(string,length,MirrorString)#2进入核心递归函数
   
