@@ -1,4 +1,5 @@
 #以下内容来自《自学是门手艺--李笑来》3.2.2类Python的实现 第265题
+#编写日期:2021-1-21 13:48
 class Person:
     def __init__(self, id):
         self.id = id
