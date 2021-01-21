@@ -16,5 +16,8 @@ print('p.__la__值为:',p.__la__)
 #无法获取print('p._hanhan__la__值为：',p._hanhan__la__)
 print('p._hanhan__lb值为:',p._hanhan__lb)
 #无法获取print('p.__lb值为:',p.__lb)
-print('p._hanhan__lc_值为',p._hanhan__lc_)
+print('p._hanhan__lc_值为:',p._hanhan__lc_)
 #无法获取print('p.__lc_值为:',p.__lc_)
+p._hanhan__lc_=100
+print('更新后p._hanhan__lc_值为:',p._hanhan__lc_)
+
