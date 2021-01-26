@@ -29,6 +29,9 @@
   > &emsp;创建于2021-01-26 15:20  
 ## - markdown文件：
 > .md文件(markdown文件)换行的操作为在需要换行的那行末尾添加2个空格。  
-> 对应的语法网站：https://www.runoob.com/markdown/md-tutorial.html  
+> markdown语法网站：  
+> https://www.runoob.com/markdown/md-tutorial.html  
+> https://www.appinn.com/markdown  
+> https://daringfireball.net/projects/markdown/syntax
 
 [2]: https://github.com/yagukom/Python/tree/main/QT_for_Python
