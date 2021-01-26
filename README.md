@@ -20,7 +20,7 @@
   > &emsp;主网站:https://xue.cn  
   > &emsp;官方手册网站：https://www.python.org  
   > &emsp;创建于2020-12-14 15:21  
-### 2.学习QT for Python时写的Demo  
+### 2.[学习QT for Python时写的Demo  ][2]
   > &emsp;主网站:https://www.qt.io/qt-for-python  
   > &emsp;镜像资源网:http://mirrors.ustc.edu.cn/qtproject/archive/qt  
   > &emsp;常见问题：  
@@ -30,3 +30,5 @@
 ## - markdown文件：
 > .md文件(markdown文件)换行的操作为在需要换行的那行末尾添加2个空格。  
 > 对应的语法网站：https://www.runoob.com/markdown/md-tutorial.html  
+
+[2]: https://github.com/yagukom/Python/tree/main/QT_for_Python
