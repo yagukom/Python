@@ -17,9 +17,9 @@ Fedora 下常见的问题：
 #----------------------  
 常用的python指令：  
   &emsp;python -m pip install xxx  
-            pip list  
-            pip list  xxx  
-            pip uninstall xxx  
+  &emsp;&emsp;pip list  
+  &emsp;&emsp;pip list  xxx  
+  &emsp;&emsp;pip uninstall xxx  
 #----------------------  
 以下为事件节点：  
 1.学习Python时写的DEMO  
