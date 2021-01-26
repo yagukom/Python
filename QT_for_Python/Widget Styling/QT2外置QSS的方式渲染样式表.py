@@ -1,4 +1,5 @@
 #来自于https://doc.qt.io/qtforpython/tutorials/basictutorial/widgetstyling.html
+#编辑时间:2021-1-26 15:23
 import sys
 from PySide6.QtCore import Qt
 from PySide6.QtWidgets import QApplication, QLabel
