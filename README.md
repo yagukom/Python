@@ -1,8 +1,8 @@
 # Python  
 ## - Windows/Fedora下常用的编写IDE：  
-  &emsp;IDLE(Python3.9)  
+  > &emsp;IDLE(Python3.9)  
 ## - windows下常用的Python指令：  
-  &emsp;where python  
+  > &emsp;where python  
 ## - Fedora 下常用的Python指令:  
   &emsp;which python  
   &emsp;info 后按照系统提示下载info  
