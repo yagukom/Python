@@ -1,7 +1,7 @@
 # Python  
 #----------------------  
 Windows/Fedora下常用的编写IDE：  
-  &nbsp;IDLE(Python3.9)  
+  &emsp;IDLE(Python3.9)  
 #----------------------  
 windows下常用的Python指令：  
   where python  
