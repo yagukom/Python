@@ -28,5 +28,5 @@
   &emsp;&emsp;2.关于QT官方例程的错误：QT6对应的PySide6里的example由于缺少文件，会导致运行不成功；但可以使用QT5对应的PySide2里的example进行运行。  
   &emsp;创建于2021-01-26 15:20  
 ## markdown文件：
-.md文件(markdown文件)换行的操作为在需要换行的那行末尾添加2个空格。
+.md文件(markdown文件)换行的操作为在需要换行的那行末尾添加2个空格。  
 对应的语法网站：https://www.runoob.com/markdown/md-tutorial.html  
