@@ -23,8 +23,8 @@ Fedora 下常见的问题：
 #----------------------  
 以下为事件节点：  
 1.学习Python时写的DEMO  
-  &emsp;主网站:xue.cn  
-  &emsp;&emsp;www.python.org  
+  &emsp;主网站:https://xue.cn  
+  &emsp;官方手册网站：https://www.python.org  
   &emsp;创建于2020-12-14 15:21  
 2.学习QT for Python时写的Demo  
   &emsp;主网站:https://www.qt.io/qt-for-python  
