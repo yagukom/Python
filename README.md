@@ -1,6 +1,5 @@
 # Python  
-#----------------------  
-Windows/Fedora下常用的编写IDE：  
+##Windows/Fedora下常用的编写IDE：  
   &emsp;IDLE(Python3.9)  
 #----------------------  
 windows下常用的Python指令：  
@@ -35,3 +34,4 @@ Fedora 下常见的问题：
   &emsp;创建于2021-01-26 15:20  
 #-----------------------  
 .md文件(markdown文件)换行的操作为在需要换行的那行末尾添加2个空格。
+https://www.runoob.com/markdown/md-tutorial.html  
