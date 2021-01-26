@@ -1,3 +1,4 @@
+#关联QT2外置QSS的方式渲染样式表.py
 QLabel {
     background-color: red;
 	font-size: 20px;
