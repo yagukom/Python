@@ -9,7 +9,7 @@ windows下常用的Python指令：
 Fedora 下常用的Python指令:  
   &emsp;which python  
   &emsp;info 后按照系统提示下载info  
-  &emsp;vim  ``````  
+  &emsp;vim  后按照系统提示下载info  
 #----------------------  
 Fedora 下常见的问题：  
   &emsp;若fedora没有设置超级用户权限密码(su 鉴定故障)，则需要输入sudo passwd root  
