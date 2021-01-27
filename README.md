@@ -9,7 +9,7 @@
   > &emsp;vim  后按照系统提示下载info  
 ## - Fedora 下常见的问题：  
   > &emsp;若fedora没有设置超级用户权限密码(su 鉴定故障)，则需要输入sudo passwd root。  
-  > &emsp;虚拟机推荐配置7代i5以上，不然会很卡；或者直接装机至i2以上的机器，但下载速度会很感人。  
+  > &emsp;虚拟机推荐配置7代i5以上，不然会很卡；或者直接装机至i3以上的机器，但下载速度会很感人。  
 ## - 常用的python指令：  
   > 注意：如果pip不是最新的话，会导致下载失败，安装完最新的pip后就可以了（python -m pip install --upgrade pip）。  
   > &emsp;python -m pip install xxx  
