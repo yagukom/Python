@@ -1,5 +1,6 @@
 # Python  
 Python部分将转移至https://gitee.com/bombheavens001/Python
+2021-1-27 10:41 以后可能会单独克隆Gitee的Python至Github上。
 ## - Windows/Fedora下常用的编写IDE：  
   > &emsp;IDLE(Python3.9)  
 ## - windows下常用的Python指令：  
