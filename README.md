@@ -1,4 +1,5 @@
 # Python  
+Python部分将转移至https://gitee.com/bombheavens001/Python
 ## - Windows/Fedora下常用的编写IDE：  
   > &emsp;IDLE(Python3.9)  
 ## - windows下常用的Python指令：  
